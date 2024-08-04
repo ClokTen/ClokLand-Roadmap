@@ -6,12 +6,11 @@
 
 - Release ClokLand whitepaper on GitHub.
 - Finalize technical architecture for ClokLand on the Stacks blockchain.
+- $Clok10 token created and listed.
 
 ### Q4 2024
 
-- Begin ClokLand development on Stacks.
-- Launch $Clok10 token.
-- Commence liquidity pool campaign.
+- Launch ClokLand Radio: Go live with 24/7 programming featuring hip-hop music, interviews, and community discussions. Introduce $Clok10 rewards for listener engagement.
 
 ## 2025
 
@@ -35,7 +34,7 @@
 ### Q4 2025
 
 - Release "Name That Artist" game and other interactive features.
-- Launch ClokLand Radio: Go live with 24/7 programming featuring hip-hop music, interviews, and community discussions. Introduce $Clok10 rewards for listener engagement.
+- Expand ClokLand Radio with more content and community engagement features.
 
 ## 2026
 
